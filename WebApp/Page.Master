@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page.master.cs" Inherits="WebApp.Page" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="font-family: 'Work Sans';">
+<div id="wrap">
+<div id="main" class="container clear-top" >
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="Home.aspx">Movity</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav seba_lista">
+        <li>
+          <a class="dropdown-toggle" data-toggle="dropdown">Vehiculos
+          <ul class="dropdown-menu">
+            <li><a href="ListarVehiculos.aspx">Listar</a></li>
+            <li><a href="CrearVehiculo.aspx">Añadir</a></li>
+            <li><a href="EditarVehiculo.aspx">Editar</a></li>
+            <li><a href="EliminarVehiculo.aspx">Eliminar</a></li>
+          </ul>
+        </a>
+        </li>
+        <li><a href="Home.aspx">Home</a></li>
+        <li></li>
+        <li></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+    <br />
+    <asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" Font-Size="0.8em" PathSeparator=" : ">
+        <CurrentNodeStyle ForeColor="#333333" />
+        <NodeStyle Font-Bold="True" ForeColor="#990000" />
+        <PathSeparatorStyle Font-Bold="True" ForeColor="#990000" />
+        <RootNodeStyle Font-Bold="True" ForeColor="#FF8000" />
+    </asp:SiteMapPath>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                <p>
+                    <br />
+                </p>
+        
+            </asp:ContentPlaceHolder>
+</div>
+</div>
+<footer class="footer container-fluid text-center">
+  <p>Footer Text</p>
+</footer>
+
+</body>
+</html>

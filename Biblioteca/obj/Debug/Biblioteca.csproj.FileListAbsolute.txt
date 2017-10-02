@@ -1,0 +1,16 @@
+c:\users\cetecom\documents\visual studio 2015\Projects\NiKeSe\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Desktop\NiKeSe\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\cetecom\Desktop\NiKeSe\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\cetecom\Desktop\NiKeSe\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Desktop\NiKeSe\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\cetecom\Desktop\NiKeSe\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Seba\Downloads\NiKeSe\NiKeSe\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Seba\Downloads\NiKeSe\NiKeSe\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Seba\Downloads\NiKeSe\NiKeSe\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Seba\Downloads\NiKeSe\NiKeSe\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Seba\Downloads\NiKeSe\NiKeSe\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\cetecom\Desktop\NiKeSe (2)\NiKeSe\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\cetecom\Desktop\NiKeSe (2)\NiKeSe\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\cetecom\Desktop\NiKeSe (2)\NiKeSe\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Desktop\NiKeSe (2)\NiKeSe\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\cetecom\Desktop\NiKeSe (2)\NiKeSe\Biblioteca\obj\Debug\Biblioteca.pdb
